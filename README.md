@@ -1,2 +1,3 @@
 # Bloodbank
 .
+The goal of this research was to create a blood management project system that would aid in the maintenance of blood donor records. Creating market strategies for blood donation, lobbying, and sensitization of blood donors becomes very difficult without quick and timely access to donor records. The blood management project system includes features that allow for quick access to donor records gathered across the country. This discussion does not end the knowledge that you might find around the corner. Blood Bank Management System Project will continue to develop and advance and we’ll help you cope with that.
